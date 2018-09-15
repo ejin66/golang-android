@@ -1,0 +1,1 @@
+详细内容：[将Go代码编译成动态链接库，android通过JNI调用](https://ejin66.github.io/2018/09/15/go-to-so-android.html)
